@@ -24,9 +24,6 @@ export default function Page() {
         <Text style={styles.buttonText}>Save</Text>
       </Pressable>
 
-      <View style={styles.main}>
-        
-      </View>
     </View>
   );
 }
